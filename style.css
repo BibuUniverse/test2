@@ -19,6 +19,13 @@ body {
     /* This container will hold the images */
 }
 
+.heartThree {
+  position: absolute;
+  left:85px;
+  top:415px;
+  animation: up 5s linear forwards 3s;
+}
+
 #question {
     font-family: 'Sacramento', cursive; /* Apply Sacramento font to the question */
     font-size: 52px; /* Set font size for the question */
